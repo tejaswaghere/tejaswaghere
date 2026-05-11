@@ -19,6 +19,7 @@ tejas = {
     "age"        : 20,
     "degree"     : "Final Year Student pursuing B.Tech CSE — AI&ML",
     "location"   : "Pune, Maharashtra"
+} 
 ```
 ---
 
