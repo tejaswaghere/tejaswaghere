@@ -17,19 +17,10 @@
 ```python
 tejas = {
     "age"        : 20,
-    "degree"     : "B.Tech CSE — AI/ML @ Pune",
-    "focus"      : ["NLP", "RAG Pipelines", "Agentic AI"],
-    "building"   : "Sarkari Sahayak — multilingual govt scheme discovery",
-    "next_goal"  : ["C4GT DMP 2026", "US Master's in AI"],
-    "philosophy" : "AI handles the how. I own the why."
+    "degree"     : "Final Year Student pursuing B.Tech CSE — AI&ML",
+    "location"   : "Pune, Maharashtra",
 }
 ```
-
-- 🔭 Currently building **Sarkari Sahayak** — an agentic RAG system for rural India (Hindi/Marathi/English)
-- 🧠 Fine-tuning multilingual models with **MuRIL** & **LaBSE**
-- 🌱 Actively contributing to open-source for **C4GT DMP 2026**
-- ⚡ I sketch on paper before I prompt. I review AI output like a senior catching junior mistakes.
-
 ---
 
 ## Tech Stack
@@ -52,20 +43,10 @@ tejas = {
 <!-- Tools & Infra -->
 **Tools & Infra**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,colab&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,colab&theme=dark)](https://skillicons.dev)
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white)
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🕵️ Fake News Detector](https://github.com/tejaswaghere/fake-news-detector-multilingual) | Multilingual fake news detection — MuRIL fine-tuned, ~91% accuracy on ISOT + LIAR | PyTorch · MuRIL · Gradio |
-| [🎙️ Stress Detection via Voice](https://github.com/tejaswaghere/stress-detection-using-voice-analysis) | 182-feature audio pipeline → speech emotion & stress classification | librosa · SVM · Web Audio API |
-| [🏛️ Sarkari Sahayak](https://github.com/tejaswaghere) *(in progress)* | Agentic RAG for rural govt scheme discovery in Hindi/Marathi/English | LangChain · MuRIL · FAISS · Gradio |
 
 ---
 
