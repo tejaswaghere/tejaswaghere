@@ -16,7 +16,7 @@
 
 ```python
 tejas = {
-    "age"        : 20,
+    "age"        : 21,
     "degree"     : "Final Year Student pursuing B.Tech CSE — AI&ML",
     "location"   : "Pune, Maharashtra"
 } 
